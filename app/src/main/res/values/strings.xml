@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LMS</string>
+    <string name="create_loan">Create new loan</string>
+    <string name="view_loans">View all loans</string>
+</resources>
