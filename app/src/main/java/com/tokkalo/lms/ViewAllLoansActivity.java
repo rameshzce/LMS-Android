@@ -12,6 +12,6 @@ public class ViewAllLoansActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_all_loans);
 
-        setTitle("All Loans");
+        setTitle("View All Loans");
     }
 }
